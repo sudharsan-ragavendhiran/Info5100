@@ -1,0 +1,18 @@
+{
+    "employee": [
+      {
+        "employeeName": null,
+        "employeeId": null,
+        "employeeAge": null,
+        "employeeGender": null,
+        "employeePosition": null,
+        "employeeStartDate": null,
+        "employeeLevel": null,
+        "employeeTeamInfo": null,
+        "employeeContactInfo":{
+          "cellPhonenumber": null, 
+          "email": null
+        }
+      }
+    ]
+  }
